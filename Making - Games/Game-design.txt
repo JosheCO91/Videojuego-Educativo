@@ -1,11 +1,20 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATEMÁTICAS] a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. La historia se desarrolla en [MUNDO MÁGICO], un mundo lleno de misterios, desafíos y personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
+[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA]
+a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
 
-El protagonista de esta aventura es [LUCAS], un/a [NIÑO VALIENTE Y CURIOSO]. [LUCAS] es un/a [AVENTURERO] que ha sido elegido/a para una misión única: [SALVAR EL MUNDO MÁGICO DE LAS GARRAS DEL MALVADO HECHICERO]. Con su [AMULETO MÁGICO], [LUCAS] deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de [MATEMÁTICAS].
+La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y
+personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
+juego está diseñado para combinar diversión y educación, permitiendo que los
+estudiantes adquieran conocimientos de manera natural mientras exploran,
+resuelven problemas y superan obstáculos.
 
-El jugador podrá [RESOLVER PROBLEMAS MATEMÁTICOS], para avanzar deberá [SUPERAR OBSTÁCULOS] y los desafíos incluirán [OPERACIONES BÁSICAS, GEOMETRÍA Y LÓGICA].
-
-Los estudiantes avanzarán mediante [UN SISTEMA DE NIVELES]. Cada nivel representa [UN CONCEPTO MATEMÁTICO], y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
-
-Los jugadores aprenderán [SUMAS Y RESTAS] mediante [RESOLUCIÓN DE PROBLEMAS]. Se reforzará [GEOMETRÍA] a través de [CONSTRUCCIÓN DE FIGURAS] y las evaluaciones se realizarán mediante [PRUEBAS INTERACTIVAS], lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
-
-El juego se desarrollará usando [UNITY] y tendrá soporte para [PC Y MÓVILES]. Además, se implementarán características como [GRÁFICOS 2D Y SONIDO INMERSIVO] para garantizar una experiencia de juego fluida y atractiva.
+El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
+PERSONALIDAD]. 
+[NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
+única: [OBJETIVO PRINCIPAL]. 
+Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE] deberá enfrentarse a desafíos cada 
+vez más complejos mientras aprende y enseña a los jugadores conceptos clave de [MATERIA].
+El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
+incluirán [TIPO DE DESAFÍOS]
+Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa 
+[CONCEPTO EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
+desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
